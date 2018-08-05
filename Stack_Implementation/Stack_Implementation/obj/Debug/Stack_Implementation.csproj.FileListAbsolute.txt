@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe.config
+C:\Users\Lenovo\Desktop\C#\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe
+C:\Users\Lenovo\Desktop\C#\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.pdb
+C:\Users\Lenovo\Desktop\C#\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.exe
+C:\Users\Lenovo\Desktop\C#\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.pdb
+C:\Users\Lenovo\Desktop\C#\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csprojAssemblyReference.cache

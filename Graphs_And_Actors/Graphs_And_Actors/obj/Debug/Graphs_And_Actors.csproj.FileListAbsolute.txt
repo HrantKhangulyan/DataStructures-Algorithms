@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\bin\Debug\Graphs_And_Actors.exe.config
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\bin\Debug\Graphs_And_Actors.exe
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\bin\Debug\Graphs_And_Actors.pdb
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\obj\Debug\Graphs_And_Actors.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\obj\Debug\Graphs_And_Actors.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\obj\Debug\Graphs_And_Actors.exe
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\obj\Debug\Graphs_And_Actors.pdb
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\C#\Graphs_And_Actors\Graphs_And_Actors\bin\Debug\Newtonsoft.Json.xml

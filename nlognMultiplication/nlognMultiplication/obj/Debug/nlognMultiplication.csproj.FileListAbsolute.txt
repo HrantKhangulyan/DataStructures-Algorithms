@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\nlognMultiplication\nlognMultiplication\bin\Debug\nlognMultiplication.exe.config
+C:\Users\Lenovo\Desktop\C#\nlognMultiplication\nlognMultiplication\bin\Debug\nlognMultiplication.exe
+C:\Users\Lenovo\Desktop\C#\nlognMultiplication\nlognMultiplication\bin\Debug\nlognMultiplication.pdb
+C:\Users\Lenovo\Desktop\C#\nlognMultiplication\nlognMultiplication\obj\Debug\nlognMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\nlognMultiplication\nlognMultiplication\obj\Debug\nlognMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\nlognMultiplication\nlognMultiplication\obj\Debug\nlognMultiplication.exe
+C:\Users\Lenovo\Desktop\C#\nlognMultiplication\nlognMultiplication\obj\Debug\nlognMultiplication.pdb

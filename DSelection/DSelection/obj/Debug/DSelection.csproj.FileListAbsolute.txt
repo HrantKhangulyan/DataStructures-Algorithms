@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\DSelection\DSelection\bin\Debug\DSelection.exe.config
+C:\Users\Lenovo\Desktop\C#\DSelection\DSelection\bin\Debug\DSelection.exe
+C:\Users\Lenovo\Desktop\C#\DSelection\DSelection\bin\Debug\DSelection.pdb
+C:\Users\Lenovo\Desktop\C#\DSelection\DSelection\obj\Debug\DSelection.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\DSelection\DSelection\obj\Debug\DSelection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\DSelection\DSelection\obj\Debug\DSelection.exe
+C:\Users\Lenovo\Desktop\C#\DSelection\DSelection\obj\Debug\DSelection.pdb

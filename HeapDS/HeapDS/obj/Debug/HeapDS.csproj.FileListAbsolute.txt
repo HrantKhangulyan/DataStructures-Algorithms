@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\HeapDS\HeapDS\bin\Debug\HeapDS.exe.config
+C:\Users\Lenovo\Desktop\C#\HeapDS\HeapDS\bin\Debug\HeapDS.exe
+C:\Users\Lenovo\Desktop\C#\HeapDS\HeapDS\bin\Debug\HeapDS.pdb
+C:\Users\Lenovo\Desktop\C#\HeapDS\HeapDS\obj\Debug\HeapDS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\HeapDS\HeapDS\obj\Debug\HeapDS.exe
+C:\Users\Lenovo\Desktop\C#\HeapDS\HeapDS\obj\Debug\HeapDS.pdb
+C:\Users\Lenovo\Desktop\C#\HeapDS\HeapDS\obj\Debug\HeapDS.csprojAssemblyReference.cache

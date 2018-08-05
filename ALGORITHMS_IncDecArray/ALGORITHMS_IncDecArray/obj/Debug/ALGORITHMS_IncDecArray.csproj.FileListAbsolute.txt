@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\ALGORITHMS_IncDecArray\ALGORITHMS_IncDecArray\bin\Debug\ALGORITHMS_IncDecArray.exe.config
+C:\Users\Lenovo\Desktop\C#\ALGORITHMS_IncDecArray\ALGORITHMS_IncDecArray\bin\Debug\ALGORITHMS_IncDecArray.exe
+C:\Users\Lenovo\Desktop\C#\ALGORITHMS_IncDecArray\ALGORITHMS_IncDecArray\bin\Debug\ALGORITHMS_IncDecArray.pdb
+C:\Users\Lenovo\Desktop\C#\ALGORITHMS_IncDecArray\ALGORITHMS_IncDecArray\obj\Debug\ALGORITHMS_IncDecArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\ALGORITHMS_IncDecArray\ALGORITHMS_IncDecArray\obj\Debug\ALGORITHMS_IncDecArray.exe
+C:\Users\Lenovo\Desktop\C#\ALGORITHMS_IncDecArray\ALGORITHMS_IncDecArray\obj\Debug\ALGORITHMS_IncDecArray.pdb
+C:\Users\Lenovo\Desktop\C#\ALGORITHMS_IncDecArray\ALGORITHMS_IncDecArray\obj\Debug\ALGORITHMS_IncDecArray.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C#\Parentheses\Parentheses\bin\Debug\Parentheses.exe.config
+C:\Users\Lenovo\Desktop\C#\Parentheses\Parentheses\bin\Debug\Parentheses.exe
+C:\Users\Lenovo\Desktop\C#\Parentheses\Parentheses\bin\Debug\Parentheses.pdb
+C:\Users\Lenovo\Desktop\C#\Parentheses\Parentheses\obj\Debug\Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Parentheses\Parentheses\obj\Debug\Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Parentheses\Parentheses\obj\Debug\Parentheses.exe
+C:\Users\Lenovo\Desktop\C#\Parentheses\Parentheses\obj\Debug\Parentheses.pdb
