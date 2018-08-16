@@ -182,9 +182,9 @@ namespace BinarySearchTree
                     break;
 
                 case(2):
-                    Node futorenodetoremove = GetNode(GetMinInSubOF(NodeToRemove));
-                    NodeToRemove.value = futorenodetoremove.value;
-                    Remove(futorenodetoremove);
+                    Node futurenodetoremove = GetNode(GetMinInSubOF(NodeToRemove));
+                    NodeToRemove.value = futurenodetoremove.value;
+                    Remove(futurenodetoremove);
                     break;
             }
         }
