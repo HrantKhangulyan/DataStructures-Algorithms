@@ -1,0 +1,3 @@
+Let's say we have an array of integers. First , the elemetns re in increasing order, and starting from "one" int the array starts decreasing.
+Find that integer.
+Recursive solution to this problem.
