@@ -1,0 +1,9 @@
+Implementation of Graphs and following algorithms.
+
+- BFS 
+- DFS  
+- Function that finds if a graph has cycle in it
+- Finding Minimum Cuts
+- Dijkstra's algorithm
+- Prims Minimum spanning tree algorithm
+- Solving OMDB database problem. Getting JSON data from OMDB database (Movies , Actors , etc...) and creating a graph of actors. Any two actors who have played in the same movie are connected.
