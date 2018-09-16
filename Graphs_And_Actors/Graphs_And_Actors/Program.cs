@@ -15,7 +15,7 @@ namespace Graphs_And_Actors
     {
         public static List<T> BFS<T>(Graph<T> graph, Node<T> source)
         {
-            List<T> result = new List<T>(); //stugelu hamar
+            List<T> result = new List<T>(); //for checking the result
             Queue<Node<T>> myqueue = new Queue<Node<T>>();
             source.IsMarked = true;
             myqueue.Enqueue(source);
